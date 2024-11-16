@@ -2,7 +2,12 @@
 
 <h1>Welcome!</h1>
 
-Check out my modernized ports of Pangea Software classics:
+Check out my newest project!
+<br>GitFourchette, a comfortable Git UI designed to fit in with KDE Plasma:
+
+<a href="https://github.com/jorio/gitfourchette"><img width="440" src="gf.webp" alt="Nanosaur"></a>
+
+My modernized ports of Pangea Software classics:
 
 <a href="https://github.com/jorio/Nanosaur"   ><img width="145" src="nano.webp" alt="Nanosaur"></a>
 <a href="https://github.com/jorio/Bugdom"     ><img width="145" src="bug.webp" alt="Bugdom"></a>
@@ -19,7 +24,7 @@ Check out my modernized ports of Pangea Software classics:
 
 <br/>
 
-Would you like to support the creation of these ports?<br/>
+Would you like to support my projects?<br/>
 <a href="https://ko-fi.com/D1D6D94R6" target="_blank"><img src="kofi_button_red.png" alt="Buy Me a Coffee at ko-fi.com" height="36"></a>
 
 **Have fun!** -Iliyas
